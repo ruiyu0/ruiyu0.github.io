@@ -38,6 +38,17 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2502.16098"> <b>Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models</b> </a> <br>
+				Jingyi Xie, <b>Rui Yu</b>, He Zhang, Syed Masum Billah, Sooyeon Lee, John M. Carroll<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2025.<br>
+				[<a href="https://arxiv.org/pdf/2502.16098">paper</a>][<a href="https://github.com/see4vision/chi25_lmm">data</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
