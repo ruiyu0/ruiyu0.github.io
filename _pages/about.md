@@ -32,7 +32,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
-				IEEE/CVF International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
 			  </p>
 			</td>
@@ -131,7 +131,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2203.09642"> <b>Cascade Transformers for End-to-End Person Search</b> </a> <br>
 				<b>Rui Yu</b>, Dawei Du, Rodney LaLonde, Daniel Davila, Christopher Funk, Anthony Hoogs, Brian Clipp<br>
-				IEEE/CVF International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
 				[<a href="https://arxiv.org/pdf/2203.09642">paper</a>][<a href="https://github.com/Kitware/COAT">code</a>]
 			  </p>
 			</td>
