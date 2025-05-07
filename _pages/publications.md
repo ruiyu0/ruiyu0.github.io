@@ -44,9 +44,9 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf"> <b>BubbleCam: Engaging Privacy in Remote Sighted Assistance</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu* (eq. contrib.)</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				Jingyi Xie*, <b>Rui Yu*</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
-				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>]
+				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>] (*equal contribution)
 			  </p>
 		  	</td>
 		</tr>
@@ -121,9 +121,9 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3532106.3533560"> <b>Helping Helpers: Supporting Volunteers in Remote Sighted Assistance with Augmented Reality Maps</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu* (eq. contrib.)</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll<br>
+				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll<br>
 				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2022.<br>
-				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>]
+				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>] (*equal contribution)
 			  </p>
 		  	</td>
 		</tr>
@@ -132,9 +132,9 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3490099.3511113"> <b>Opportunities for Human-AI Collaboration in Remote Sighted Assistance</b> </a> <br>
-				Sooyeon Lee*, <b>Rui Yu* (eq. contrib.)</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
+				Sooyeon Lee*, <b>Rui Yu*</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
 				ACM International Conference on Intelligent User Interfaces (<b>IUI</b>), 2022.<br>
-				[<a href="https://dl.acm.org/doi/10.1145/3490099.3511113">paper</a>][<a href="https://www.youtube.com/watch?v=wIa5zvGP2BM">video</a>][<a href="https://www.psu.edu/news/information-sciences-and-technology/story/tech-designed-aid-visually-impaired-could-benefit-human">PSU News</a>]
+				[<a href="https://dl.acm.org/doi/10.1145/3490099.3511113">paper</a>][<a href="https://www.youtube.com/watch?v=wIa5zvGP2BM">video</a>][<a href="https://www.psu.edu/news/information-sciences-and-technology/story/tech-designed-aid-visually-impaired-could-benefit-human">PSU News</a>] (*equal contribution)
 			  </p>
 		  	</td>
 		</tr>
