@@ -7,6 +7,17 @@ author_profile: true
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ZeroPlane.jpg" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
+				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
+				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (*equal contribution)
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/PlanarSplat.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
