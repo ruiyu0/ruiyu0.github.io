@@ -40,6 +40,17 @@ author_profile: true
 		  	</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/cvmj25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2504.09694"> <b>Computer-Aided Layout Generation for Building Design: A Review</b> </a> <br>
+				Jiachen Liu, Yuan Xue, Haomiao Ni, <b>Rui Yu</b>, Zihan Zhou, Sharon X. Huang<br>
+				Computational Visual Media (<b>CVMJ</b>), 2025.<br>
+				[<a href="https://arxiv.org/pdf/2504.09694">paper</a>][<a href="https://github.com/jcliu0428/awesome-building-layout-generation">project</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
