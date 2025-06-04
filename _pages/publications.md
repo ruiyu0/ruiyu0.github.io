@@ -134,7 +134,7 @@ author_profile: true
 				<a href="https://dl.acm.org/doi/10.1145/3532106.3533560"> <b>Helping Helpers: Supporting Volunteers in Remote Sighted Assistance with Augmented Reality Maps</b> </a> <br>
 				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll<br>
 				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2022.<br>
-				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>] <i>(<b>*equal contribution</b>)</i>
+				[<i><b>*equal contribution</b></i>][<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>]
 			  </p>
 		  	</td>
 		</tr>
