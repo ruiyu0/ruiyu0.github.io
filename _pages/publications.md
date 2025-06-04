@@ -13,7 +13,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
-				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (*equal contribution)
+				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (*<i>equal contribution</i>)
 			  </p>
 			</td>
 		</tr>

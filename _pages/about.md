@@ -23,7 +23,8 @@ I am seeking motivated students interested in computer vision and/or human-compu
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester) -->
 
-## Selected Publications [<a href="/publications/">Full List</a>]
+## Selected Publications <span style="font-weight: normal;">[<a href="/publications/">Full List</a>]</span>
+
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
