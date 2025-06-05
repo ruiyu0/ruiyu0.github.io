@@ -56,7 +56,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf"> <b>Graph Fairness via Authentic Counterfactuals: Tackling Structural and Causal Challenges</b> </a> <br>
 				Zichong Wang, Zhipeng Yin, Fang Liu, Zhen Liu, Christine Lisetti, <b>Rui Yu</b>, Shaowei Wang, Jun Li, Sukumar Ganapati, Shuigeng Zhou, Wenbin Zhang<br>
-				ACM <b>SIGKDD Explorations</b>, 2025.<br>
+				ACM SIGKDD Explorations, 2025.<br>
 				[<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf">paper</a>]
 			  </p>
 			</td>
@@ -124,6 +124,17 @@ author_profile: true
 				Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, <b>Rui Yu</b>, Zhou Zhao, Yongchao Xu<br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2405.12872">paper</a>][<a href="https://github.com/zzr728/SAGAN">code</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/future_internet24.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human–AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
+				<b>Rui Yu*</b>, Sooyeon Lee*, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
+				Future Internet, 2024. (Extended version of IUI'22)<br>
+				[<a href="https://www.mdpi.com/1999-5903/16/7/254">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
 		</tr>
