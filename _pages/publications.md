@@ -45,8 +45,19 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2504.09694"> <b>Computer-Aided Layout Generation for Building Design: A Review</b> </a> <br>
 				Jiachen Liu, Yuan Xue, Haomiao Ni, <b>Rui Yu</b>, Zihan Zhou, Sharon X. Huang<br>
-				Computational Visual Media (<b>CVMJ</b>), 2025.<br>
+				Computational Visual Media (<b>CVM</b>), 2025.<br>
 				[<a href="https://arxiv.org/pdf/2504.09694">paper</a>][<a href="https://github.com/jcliu0428/awesome-building-layout-generation">project</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/kdd_exploration25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf"> <b>Graph Fairness via Authentic Counterfactuals: Tackling Structural and Causal Challenges</b> </a> <br>
+				Zichong Wang, Zhipeng Yin, Fang Liu, Zhen Liu, Christine Lisetti, <b>Rui Yu</b>, Shaowei Wang, Jun Li, Sukumar Ganapati, Shuigeng Zhou, Wenbin Zhang<br>
+				ACM <b>SIGKDD Explorations</b>, 2025.<br>
+				[<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf">paper</a>]
 			  </p>
 			</td>
 		</tr>
