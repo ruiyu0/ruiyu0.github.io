@@ -51,6 +51,17 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/group25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/abs/10.1145/3688828.3699636"> <b>Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System</b> </a> <br>
+				He Zhang, Nicholas J. Falletta, Jingyi Xie, <b>Rui Yu</b>, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				ACM International Conference on Supporting Group Work (<b>GROUP</b>), 2025.<br>
+				[<a href="https://dl.acm.org/doi/abs/10.1145/3688828.3699636">extended abstract</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
