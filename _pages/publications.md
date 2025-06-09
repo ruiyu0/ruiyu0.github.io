@@ -45,7 +45,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2504.09694"> <b>Computer-Aided Layout Generation for Building Design: A Review</b> </a> <br>
 				Jiachen Liu, Yuan Xue, Haomiao Ni, <b>Rui Yu</b>, Zihan Zhou, Sharon X. Huang<br>
-				Computational Visual Media (<b>CVM</b>), 2025.<br>
+				Computational Visual Media (<b>CVMJ</b>), 2025.<br>
 				[<a href="https://arxiv.org/pdf/2504.09694">paper</a>][<a href="https://github.com/jcliu0428/awesome-building-layout-generation">project</a>]
 			  </p>
 			</td>
