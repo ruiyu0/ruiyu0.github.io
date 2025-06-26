@@ -13,7 +13,7 @@ author_profile: true
 				<a href=""> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[paper]
+				[paper to appear]
 			  </p>
 			</td>
 		</tr>
@@ -24,7 +24,7 @@ author_profile: true
 				<a href=""> <b>Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval</b> </a> <br>
 				Zhichuan Wang, Yang Zhou, Zhe Liu, <b>Rui Yu</b>, Song Bai, Yulong Wang, Xinwei He, Xiang Bai <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[paper]
+				[paper to appear]
 			  </p>
 			</td>
 		</tr>
@@ -58,6 +58,17 @@ author_profile: true
 				Jingyi Xie, <b>Rui Yu</b>, He Zhang, Syed Masum Billah, Sooyeon Lee, John M. Carroll<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2025.<br>
 				[<a href="https://arxiv.org/pdf/2502.16098">paper</a>][<a href="https://github.com/see4vision/chi25_lmm">data</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Nora.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
+				Zhikai Wei, Chao Wu, Hanyu Du, <b>Rui Yu</b>, Bo Du, Yongchao Xu <br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2025.<br>
+				[paper to appear]
 			  </p>
 		  	</td>
 		</tr>
