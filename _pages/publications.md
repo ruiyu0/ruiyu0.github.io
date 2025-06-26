@@ -10,10 +10,21 @@ author_profile: true
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Top2Pano.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href="/"> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
+				<a href=""> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[paper (to appear)]
+				[paper]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/DAC.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval</b> </a> <br>
+				Zhichuan Wang, Yang Zhou, Zhe Liu, <b>Rui Yu</b>, Song Bai, Yulong Wang, Xinwei He, Xiang Bai <br>
+				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
+				[paper]
 			  </p>
 			</td>
 		</tr>
