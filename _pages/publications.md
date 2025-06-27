@@ -7,7 +7,7 @@ author_profile: true
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/top2pano.png" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Top2Pano.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href=""> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
