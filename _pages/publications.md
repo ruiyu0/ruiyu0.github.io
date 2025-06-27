@@ -62,6 +62,17 @@ author_profile: true
 		  	</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/pkdd25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Fairness-Aware Graph Representation Learning with Limited Demographic Information</b> </a> <br>
+				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
+				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.<br>
+				[paper to appear]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Nora.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
