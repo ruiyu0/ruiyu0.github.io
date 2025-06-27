@@ -12,9 +12,9 @@ Welcome! I am an Assistant Professor in the <a href="https://engineering.louisvi
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
-<!-- ## To Prospective Students
+## To Prospective Students
 
-I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me. -->
+I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me.
 
 <!-- ## PhD student positions available
 
