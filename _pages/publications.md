@@ -48,7 +48,7 @@ author_profile: true
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
 				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
-				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
+				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>][<a href="https://github.com/ant-research/PlanarSplatting">code</a>]
 			  </p>
 			</td>
 		</tr>
