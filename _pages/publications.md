@@ -34,7 +34,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
-				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper (Top 2.98% of 13008 submissions) <br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟<b>Highlight</b> (<b>Top 2.98%</b> of 13,008 submissions) <br>
 				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (<i><b>*equal contribution</b></i>)
 			  </p>
 			</td>
@@ -45,7 +45,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
-				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper (Top 2.98% of 13008 submissions)<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟<b>Highlight</b> (<b>Top 2.98%</b> of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
 			  </p>
 			</td>
@@ -78,7 +78,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href=""> <b>Fairness-Aware Graph Representation Learning with Limited Demographic Information</b> </a> <br>
 				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
-				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.<br>
+				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025. 🏆<b>Best Student Paper Award</b> <br>
 				[paper to appear]
 			  </p>
 		  	</td>
