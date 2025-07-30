@@ -10,7 +10,7 @@ author_profile: true
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Top2Pano.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href=""> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
+				<a href="https://arxiv.org/pdf/2507.21371"> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
 				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>]
@@ -34,7 +34,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
-				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper <br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper (Top 2.98% of 13008 submissions) <br>
 				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (<i><b>*equal contribution</b></i>)
 			  </p>
 			</td>
@@ -45,7 +45,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
-				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. 🌟Highlight Paper (Top 2.98% of 13008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
 			  </p>
 			</td>
