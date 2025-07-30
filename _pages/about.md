@@ -34,7 +34,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 				<a href=""> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[paper to appear]
+				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>]
 			  </p>
 			</td>
 		</tr>
