@@ -35,7 +35,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
-				🌟 <span style="color: #2980b9;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (<i><b>*equal contribution</b></i>)
 			  </p>
 			</td>
@@ -47,7 +47,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
-				🌟 <span style="color: #27ae60;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				🌟<span style="color: #9b59b6;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
 			  </p>
 			</td>
