@@ -81,7 +81,7 @@ author_profile: true
 				<a href=""> <b>Fairness-Aware Graph Representation Learning with Limited Demographic Information</b> </a> <br>
 				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
 				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.  <br>
-				🏆<b>Best Student Paper Award</b> <br>
+				🏆 <span style="color: #d35400;">Best Student Paper Award</span> <br>
 				[paper to appear]
 			  </p>
 		  	</td>
