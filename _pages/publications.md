@@ -47,7 +47,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
-				🌟<span style="color: #9b59b6;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>]
 			  </p>
 			</td>
@@ -70,6 +70,7 @@ author_profile: true
 				<a href=""> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
 				Zhikai Wei, Chao Wu, Hanyu Du, <b>Rui Yu</b>, Bo Du, Yongchao Xu <br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2025.<br>
+				🏆 <span style="color: #e67e22; font-weight: 500;">Best Student Paper Award</span> <br>
 				[paper to appear]
 			  </p>
 		  	</td>
