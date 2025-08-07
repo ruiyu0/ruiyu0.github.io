@@ -1,18 +1,16 @@
 ---
 layout: archive
-title: "Services"
+title: "Academic Services"
 permalink: /services/
 author_profile: true
 ---
 
-### Academic Service
-
-#### Journal Roles
+## Journal Roles
 
 * <span style="font-size:16px;"><strong>Guest Editor</strong> — Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a>, <em>Future Internet</em> (ISSN 1999-5903)</span>  
 * <span style="font-size:16px;"><strong>Reviewer</strong> — IJCV, TIP, TCSVT, PR, CVIU, PRL, JVCI, SCIS, CMIG, NeuNet</span>
 
-#### Conference Roles
+## Conference Roles
 
 * <span style="font-size:16px;"><strong>Area Chair</strong> — WACV 2026</span>  
 * <span style="font-size:16px;"><strong>Session Chair</strong> — IROS 2021, <em>"Visual Tracking II"</em></span>  
@@ -21,7 +19,7 @@ author_profile: true
   * <span style="font-size:16px;"><em>HCI</em>: CHI, ISMAR</span>  
   * <span style="font-size:16px;"><em>Rob.</em>: ICRA, IROS</span>
 
-#### Grant Review
+## Grant Review
 
 * <span style="font-size:16px;"><strong>NSF Panelist</strong></span>
 

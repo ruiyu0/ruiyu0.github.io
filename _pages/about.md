@@ -168,7 +168,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 * CSE 419. Introduction to Algorithms
 * CSE 619. Design and Analysis of Computer Algorithms
 
-## Services
+<!-- ## Services
 
 * Journal Guest Editor
   * <span style="font-size:16px;">Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank">"Human-Centered Artificial Intelligence"</a> of Future Internet (ISSN 1999-5903).</span>
@@ -183,4 +183,4 @@ I am seeking motivated students interested in computer vision and/or human-compu
   * <span style="font-size:16px;"><em>HCI</em>: CHI, ISMAR</span>
   * <span style="font-size:16px;"><em>Rob.</em>: ICRA, IROS</span>
 * Grant Review
-  * <span style="font-size:16px;">NSF Panelist</span>
+  * <span style="font-size:16px;">NSF Panelist</span> -->
