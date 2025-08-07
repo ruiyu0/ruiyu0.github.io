@@ -198,10 +198,10 @@ author_profile: true
 
 ---
 
-## 2023
+## Pre-Faculty (2017-2023)
 
 <table style="border: 1px solid transparent">
-		<tr style="border: 1px solid transparent">
+        <tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
@@ -223,13 +223,6 @@ author_profile: true
 			  </p>
 		  	</td>
 		</tr>
-</table>
-
----
-
-## 2022
-
-<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/coat.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
@@ -263,13 +256,6 @@ author_profile: true
 			  </p>
 		  	</td>
 		</tr>
-</table>
-
----
-
-## Before 2022
-
-<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
