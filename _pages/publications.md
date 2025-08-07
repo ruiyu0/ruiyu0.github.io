@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Top2Pano.png" width="150"></td>
@@ -35,7 +37,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
-				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				<span style="color: #e67e22;">✨ Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (<i><b>*equal contribution</b></i>)
 			  </p>
 			</td>
@@ -47,7 +49,7 @@ author_profile: true
 				<a href="https://arxiv.org/pdf/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
-				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				<span style="color: #e67e22;">✨ Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>][<a href="https://github.com/ant-research/PlanarSplatting">code</a>]
 			  </p>
 			</td>
@@ -81,7 +83,7 @@ author_profile: true
 				<a href=""> <b>Fairness-Aware Graph Representation Learning with Limited Demographic Information</b> </a> <br>
 				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
 				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.  <br>
-				🏆 <span style="color: #e67e22; font-weight: 500;">Best Student Paper Award</span> <br>
+				<span style="color: #e67e22; font-weight: 500;">🏆 Best Student Paper Award</span> <br>
 				[paper to appear]
 			  </p>
 		  	</td>
@@ -119,6 +121,13 @@ author_profile: true
 			  </p>
 		  	</td>
 		</tr>
+</table>
+
+---
+
+## 2024
+
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
@@ -178,13 +187,20 @@ author_profile: true
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/future_internet24.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human–AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
+				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human-AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
 				<b>Rui Yu*</b>, Sooyeon Lee*, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
 				Future Internet, 2024. (Extended version of IUI'22)<br>
 				[<a href="https://www.mdpi.com/1999-5903/16/7/254">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
 		</tr>
+</table>
+
+---
+
+## 2023
+
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
@@ -207,6 +223,13 @@ author_profile: true
 			  </p>
 		  	</td>
 		</tr>
+</table>
+
+---
+
+## 2022
+
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/coat.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
@@ -240,6 +263,13 @@ author_profile: true
 			  </p>
 		  	</td>
 		</tr>
+</table>
+
+---
+
+## Before 2022
+
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
