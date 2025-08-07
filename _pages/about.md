@@ -170,23 +170,17 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## Services
 
+* Conference Area Chair
+  * <span style="font-size:16px;">WACV 2026</span>
 * Conference Session Chair
-  * <span style="font-size:16px;">Chair for IROS 2021 Session "Visual Tracking II"</span>
-* Conference Program Committee Member / Reviewer
-  * <span style="font-size:16px;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024</span>
-  * <span style="font-size:16px;">European Conference on Computer Vision (ECCV), 2024</span>
-  * <span style="font-size:16px;">IEEE International Conference on Robotics and Automation (ICRA), 2024</span>
-  * <span style="font-size:16px;">ACM Conference on Human Factors in Computing Systems (CHI), 2024</span>
-  * <span style="font-size:16px;">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021</span>
-  * <span style="font-size:16px;">AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021</span>
-  * <span style="font-size:16px;">International Conference on Pattern Recognition (ICPR), 2018, 2020</span>
+  * <span style="font-size:16px;">IROS 2021 Session "Visual Tracking II"</span>
+* Conference Reviewer / PC Member 
+  * <span style="font-size:16px;"><strong>CV/ML</strong>: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, WACV, ACM-MM, ICPR, ECAI, ECML-PKDD</span>
+  * <span style="font-size:16px;"><strong>HCI</strong>: CHI, ISMAR</span>
+  * <span style="font-size:16px;"><strong>Rob.</strong>: ICRA, IROS</span>
+* Journal Guest Editor
+  * <span style="font-size:16px;">Special Issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank">"Human-Centered Artificial Intelligence"</a> of Future Internet (ISSN 1999-5903).</span>
 * Journal Reviewer
-  * <span style="font-size:16px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:16px;">IEEE Transactions on Image Processing (TIP)</span>
-  * <span style="font-size:16px;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</span>
-  * <span style="font-size:16px;">Pattern Recognition (PR)</span>
-  * <span style="font-size:16px;">Computer Vision and Image Understanding (CVIU)</span>
-  * <span style="font-size:16px;">Pattern Recognition Letters (PRL)</span>
-  * <span style="font-size:16px;">Journal of Visual Communication and Image Representation (JVCI)</span>
-  * <span style="font-size:16px;">Science China Information Sciences (SCIS)</span>
-  * <span style="font-size:16px;">Computerized Medical Imaging and Graphics (CMIG)</span>
+  * <span style="font-size:16px;">IJCV, TIP, TCSVT, PR, CVIU, PRL, JVCI, SCIS, CMIG, NeuNet</span>
+* Grant Review
+  * <span style="font-size:16px;">NSF Panelist</span>
