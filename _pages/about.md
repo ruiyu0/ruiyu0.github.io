@@ -9,22 +9,14 @@ header:
   image: "../images/UofL_background.jpg"
 ---
 
-## About me
-
 I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering</a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, and my Bachelor's and Master's degrees from Tsinghua University.
 
-My research lies at the intersection of **computer vision**, **machine learning**, and **human-computer interaction**. I lead the **Intelligent Vision and Interaction Lab**, where we aim to build intelligent systems that can perceive, understand, and interact with the world to empower people and enhance human capabilities.
+I lead the **Intelligent Vision and Interaction Lab**. My research vision is to create intelligent systems that can perceive the dynamic, 3D world and interact with it in a human-centric, trustworthy, and beneficial manner. To achieve this, my lab's research is driven by three interconnected thrusts:
 
-My primary research interests include:
+* **Machine Perception and 3D Generation:** We build foundational models that enable machines to see, understand, and generate the physical world. Our work focuses on reconstructing complex 3D scenes from limited inputs and creating generative algorithms for immersive content, paving the way for the next generation of robotics and augmented reality. 🤖
+* **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel assistive technologies for people with disabilities to developing fundamentally fair and privacy-preserving machine learning models for society. 🤝
+* **AI for Medical and Clinical Insights:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 🩺
 
-* **Foundational 3D Vision and Generative Models:** Developing novel algorithms to capture, reconstruct, and generate the 3D world for applications in robotics and augmented reality.
-* **Human-Centered AI for Accessibility:** Co-designing and building AI-powered systems, such as remote sighted assistance and navigation aids, to enhance the lives of people with disabilities.
-* **Robust and Trustworthy AI for High-Stakes Domains:** Creating reliable and fair machine learning models for critical applications like medical image analysis.
-
-
-<!-- Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
-
-My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges. -->
 
 <!-- ## To Prospective Students
 
@@ -39,6 +31,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## Selected Recent Publications <span style="font-weight: normal;">[<a href="/publications/">Full List</a>]</span>
 
+### Machine Perception and 3D Generation
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -69,8 +62,8 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/abs/2506.02493"> <b>Towards In-the-wild 3D Plane Reconstruction from a Single Image</b> </a> <br>
 				Jiachen Liu*, <b>Rui Yu*</b>, Sili Chen, Sharon X. Huang, Hengkai Guo<br>
-				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
-				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025.<br>
+				<span style="color: #e67e22;">✨ Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2506.02493">paper</a>][<a href="https://github.com/jcliu0428/ZeroPlane">code</a>] (<i><b>*equal contribution</b></i>)
 			  </p>
 			</td>
@@ -82,21 +75,10 @@ I am seeking motivated students interested in computer vision and/or human-compu
 				<a href="https://arxiv.org/abs/2412.03451"> <b>PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes</b> </a> <br>
 				Bin Tan, <b>Rui Yu</b>, Yujun Shen, Nan Xue<br>
 				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025. <br>
-				🌟<span style="color: #e67e22;">Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
+				<span style="color: #e67e22;">✨ Highlight Paper</span> (Top 2.98% of 13,008 submissions)<br>
 				[<a href="https://arxiv.org/pdf/2412.03451">paper</a>][<a href="https://icetttb.github.io/PlanarSplatting">project</a>][<a href="https://github.com/ant-research/PlanarSplatting">code</a>]
 			  </p>
 			</td>
-		</tr>
-		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi25.png" width="150"></td>
-			<td height="112" style="border: 1px solid transparent">
-			  <p style="text-indent: 0em">
-				<a href="https://arxiv.org/abs/2502.16098"> <b>Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models</b> </a> <br>
-				Jingyi Xie, <b>Rui Yu</b>, He Zhang, Syed Masum Billah, Sooyeon Lee, John M. Carroll<br>
-				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2025.<br>
-				[<a href="https://arxiv.org/pdf/2502.16098">paper</a>][<a href="https://github.com/see4vision/chi25_lmm">data</a>]
-			  </p>
-		  	</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
@@ -109,18 +91,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  </p>
 			</td>
 		</tr>
-		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi24.png" width="150"></td>
-			<td height="112" style="border: 1px solid transparent">
-			  <p style="text-indent: 0em">
-				<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf"> <b>BubbleCam: Engaging Privacy in Remote Sighted Assistance</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu*</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
-				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
-				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>] (<i><b>*equal contribution</b></i>)
-			  </p>
-		  	</td>
-		</tr>
-		<tr style="border: 1px solid transparent">
+    <tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
@@ -141,6 +112,78 @@ I am seeking motivated students interested in computer vision and/or human-compu
 				[<a href="https://arxiv.org/pdf/2203.09642">paper</a>][<a href="https://github.com/Kitware/COAT">code</a>]
 			  </p>
 			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2108.08259"> <b>Towards Robust Human Trajectory Prediction in Raw Videos</b> </a> <br>
+				<b>Rui Yu</b>, Zihan Zhou<br>
+				IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2021.<br>
+				[<a href="https://arxiv.org/pdf/2108.08259.pdf">paper</a>][<a href="https://github.com/rui-yu-public/Retracking-by-Prediction">code</a>]
+			  </p>
+		  	</td>
+		</tr>
+</table>
+
+### Human-Centered and Trustworthy AI
+
+<table style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2502.16098"> <b>Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models</b> </a> <br>
+				Jingyi Xie, <b>Rui Yu</b>, He Zhang, Syed Masum Billah, Sooyeon Lee, John M. Carroll<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2025.<br>
+				[<a href="https://arxiv.org/pdf/2502.16098">paper</a>][<a href="https://github.com/see4vision/chi25_lmm">data</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/pkdd25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Fairness-Aware Graph Representation Learning with Limited Demographic Information</b> </a> <br>
+				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
+				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.  <br>
+				<span style="color: #e67e22; font-weight: 500;">🏆 Best Student Paper Award</span> <br>
+				[paper to appear]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/group25.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/abs/10.1145/3688828.3699636"> <b>Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System</b> </a> <br>
+				He Zhang, Nicholas J. Falletta, Jingyi Xie, <b>Rui Yu</b>, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				ACM International Conference on Supporting Group Work (<b>GROUP</b>), 2025.<br>
+				[<a href="https://dl.acm.org/doi/abs/10.1145/3688828.3699636">extended abstract</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi24.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf"> <b>BubbleCam: Engaging Privacy in Remote Sighted Assistance</b> </a> <br>
+				Jingyi Xie*, <b>Rui Yu*</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
+				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>] (<i><b>*equal contribution</b></i>)
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/dis23.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/10.1145/3563657.3596019"> <b>Are Two Heads Better than One? Investigating Remote Sighted Assistance with Paired Volunteers</b> </a> <br>
+				Jingyi Xie, <b>Rui Yu</b>, Kaiming Cui, Sooyeon Lee, John M. Carroll, Syed Masum Billah<br>
+				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2023.<br>
+				[<a href="https://dl.acm.org/doi/10.1145/3563657.3596019">paper</a>]
+			  </p>
+		  	</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/dis22.png" width="150"></td>
@@ -164,18 +207,58 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  </p>
 		  	</td>
 		</tr>
+</table>
+
+## AI for Medical and Clinical Insights
+
+<table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Nora.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href="https://arxiv.org/abs/2108.08259"> <b>Towards Robust Human Trajectory Prediction in Raw Videos</b> </a> <br>
-				<b>Rui Yu</b>, Zihan Zhou<br>
-				IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2021.<br>
-				[<a href="https://arxiv.org/pdf/2108.08259.pdf">paper</a>][<a href="https://github.com/rui-yu-public/Retracking-by-Prediction">code</a>]
+				<a href=""> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
+				Zhikai Wei, Chao Wu, Hanyu Du, <b>Rui Yu</b>, Bo Du, Yongchao Xu <br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2025.<br>
+				[paper to appear]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/WIA-LD2ND.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2403.11672"> <b>WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising</b> </a> <br>
+				Haoyu Zhao, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, <b>Rui Yu</b><br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2403.11672">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/MoreStyle.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2403.11689"> <b>MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation</b> </a> <br>
+				Haoyu Zhao, Wenhui Dong, <b>Rui Yu</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2403.11689">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/SAGAN.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2405.12872"> <b>Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image</b> </a> <br>
+				Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, <b>Rui Yu</b>, Zhou Zhao, Yongchao Xu<br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2405.12872">paper</a>][<a href="https://github.com/zzr728/SAGAN">code</a>]
 			  </p>
 		  	</td>
 		</tr>
 </table>
+
+
 
 <!-- ## Teaching
 
