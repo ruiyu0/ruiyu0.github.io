@@ -35,7 +35,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 
 ## 📰 Recent News
 
-<div style="max-height: 300px; overflow-y: auto; padding: 1em; border: 2px solid #e0e0e0; border-radius: 10px; background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="max-height: 250px; overflow-y: auto; padding: 1em; font-size: 0.85em; border: 1px solid #ccc; border-radius: 5px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em;">
   <li><strong>07/2025:</strong> Honored with the <em>Best Student Paper</em> Award at <b>ECML-PKDD 2025</b> 🏆</li>
