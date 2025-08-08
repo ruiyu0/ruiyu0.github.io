@@ -22,6 +22,9 @@ main:
   - title: "Services"
     url: /services/
 
+  # - title: "InVision Lab"
+  #   url: /lab/
+
   # - title: "Talks"
   #   url: /talks/
 
