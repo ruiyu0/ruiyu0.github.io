@@ -45,11 +45,11 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Fan Zhu's headshot">
+			<img src="../images/FanZhu.jpeg" width="150" alt="Fan Zhu's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>Fan Zhu</b></a><br>
+				<a href="www.linkedin.com/in/fan-zhu"><b>Fan Zhu</b></a><br>
 				CSE@UofL<br>
 				Fall 2024 - Present
 			</p>
