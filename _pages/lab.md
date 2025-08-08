@@ -172,11 +172,11 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Jason Farnsworth's headshot">
+			<img src="../images/JasonF.jpg" width="150" alt="Jason Farnsworth's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Jason Farnsworth</b></a><br>
+				<a href="https://www.linkedin.com/in/jason-farnsworth-p85r3/"><b>Jason Farnsworth</b></a><br>
 				Randolph College<br>
 				Summer 2025<br>
 				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
