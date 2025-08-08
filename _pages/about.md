@@ -31,32 +31,32 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## 📣 Call for Papers
 
-I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903).  
-🗓️ Submission Deadline: February 28, 2026
+I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903). Submission Deadline: February 28, 2026
 
 ## 📰 Recent News
 
 <div style="max-height: 200px; overflow-y: auto; padding: 1em; border: 2px solid #e0e0e0; border-radius: 10px; background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
-<ul style="list-style-type: '📌 '; padding-left: 1.2em;">
-  <li><strong>07/2025:</strong> Honored with the <em>Best Student Paper</em> Award at <b>ECML-PKDD 2025</b> 🏆</li>
-  <li><strong>06/2025:</strong> Two papers accepted to <b>ICCV 2025</b>: <a href="https://top2pano.github.io/" target="_blank"><i>Top2Pano</i></a> and <a href="https://github.com/wangzhichuan123/DAC/" target="_blank"><i>DAC</i></a> 🎉</li>
-  <li><strong>06/2025:</strong> Appointed Area Chair for <b>WACV 2026</b></li>
-  <li><strong>05/2025:</strong> One paper accepted to <b>MICCAI 2025</b> 🎉</li>
-  <li><strong>05/2025:</strong> One paper accepted to <b>ECML-PKDD 2025</b> 🎉</li>
-  <li><strong>03/2025:</strong> Review paper on layout generation accepted to <b>Computational Visual Media</b> (CVMJ); to be presented at <b>CVM 2025</b> 🎉</li>
-  <li><strong>02/2025:</strong> Two papers accepted to <b>CVPR 2025</b>: 
+<ul style="padding-left: 1.2em;">
+  <li>🏆 <strong>07/2025:</strong> Honored with the <em>Best Student Paper</em> Award at <b>ECML-PKDD 2025</b></li>
+  <li>📢 <strong>06/2025:</strong> Two papers accepted to <b>ICCV 2025</b>: <a href="https://top2pano.github.io/" target="_blank"><i>Top2Pano</i></a> and <a href="https://github.com/wangzhichuan123/DAC/" target="_blank"><i>DAC</i></a></li>
+  <li>🧑‍💼 <strong>06/2025:</strong> Appointed Area Chair for <b>WACV 2026</b></li>
+  <li>📢 <strong>05/2025:</strong> One paper accepted to <b>MICCAI 2025</b></li>
+  <li>📢 <strong>05/2025:</strong> One paper accepted to <b>ECML-PKDD 2025</b></li>
+  <li>📄 <strong>03/2025:</strong> Review paper on layout generation accepted to <b>Computational Visual Media</b> (CVMJ); to be presented at <b>CVM 2025</b></li>
+  <li>📢 <strong>02/2025:</strong> Two papers accepted to <b>CVPR 2025</b>: 
     <a href="https://github.com/jcliu0428/ZeroPlane" target="_blank"><i>ZeroPlane</i></a> and 
-    <a href="https://github.com/ant-research/PlanarSplatting" target="_blank"><i>PlanarSplatting</i></a> 🎉 See you in Nashville!
+    <a href="https://github.com/ant-research/PlanarSplatting" target="_blank"><i>PlanarSplatting</i></a>. See you in Nashville!🧭
   </li>
-  <li><strong>01/2025:</strong> Paper on interactions of visually impaired users with LMMs accepted to <b>CHI 2025</b> 🎉</li>
-  <li><strong>11/2024:</strong> Awarded NSF Campus Cyberinfrastructure (CC*) grant as co-PI. Grateful for the support! 🎉</li>
-  <li><strong>05/2024:</strong> Three papers accepted to <b>MICCAI 2024</b> 🎉</li>
-  <li><strong>01/2024:</strong> Paper on privacy-preserving remote assistance accepted to <b>CHI 2024</b> 🎉</li>
-  <li><strong>01/2024:</strong> One paper accepted to <b>ICRA 2024</b> 🎉</li>
+  <li>📢 <strong>01/2025:</strong> Paper on interactions of visually impaired users with LMMs accepted to <b>CHI 2025</b></li>
+  <li>💡 <strong>11/2024:</strong> Awarded NSF Campus Cyberinfrastructure (CC*) grant as co-PI. Grateful for the support!</li>
+  <li>📢 <strong>05/2024:</strong> Three papers accepted to <b>MICCAI 2024</b></li>
+  <li>📢 <strong>01/2024:</strong> Paper on privacy-preserving remote assistance accepted to <b>CHI 2024</b></li>
+  <li>📢 <strong>01/2024:</strong> One paper accepted to <b>ICRA 2024</b></li>
 </ul>
 
 </div>
+
 
 
 ## 📚 Selected Recent Publications <span style="font-weight: normal;">[<a href="/publications/">Full List</a>]</span>
