@@ -18,13 +18,13 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="https://ruiyu0.github.io/"><b>Dr. Rui Yu</b></a><br>
-				Assistant Professor, CSE@UofL
+				Assistant Professor<br>
+				CSE@UofL
 			</p>
 		</td>
 	</tr>
 </table>
 
----
 
 ## **Current Students**
 
@@ -38,7 +38,8 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="https://zhangzitong1312.github.io/Homepage/"><b>Zitong Zhang</b></a><br>
-				CSE@UofL (Fall 2024 - )
+				CSE@UofL<br>
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
@@ -50,7 +51,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 			<p style="text-indent: 0em">
 				<a href="/"><b>Fan Zhu</b></a><br>
 				CSE@UofL<br>
-				Fall 2024 -
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
@@ -62,7 +63,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 			<p style="text-indent: 0em">
 				<a href="/"><b>Durude Mahee</b></a><br>
 				ECE@UofL (co-advised by Dr. Hongxiang Li)<br>
-				Fall 2024 - 
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
@@ -78,7 +79,8 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="https://suranjan.com.np/"><b>Suranjan Gautam</b></a><br>
-				CSE@UofL (Fall 2024 - )
+				CSE@UofL<br>
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
@@ -89,7 +91,8 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="/"><b>Antarip Saha</b></a><br>
-				CSE@UofL (Fall 2024 - )
+				CSE@UofL<br>
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
@@ -105,14 +108,15 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="/"><b>John Kellogg</b></a><br>
-				CSE@UofL (Summer 2025 - )<br>
-				NSF REU student
+				CSE@UofL<br>
+				Summer 2025 - Present<br>
+				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
 			</p>
 		</td>
 	</tr>
 </table>
 
-### **Visiting Students**
+### **Interns**
 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
@@ -122,13 +126,13 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="/"><b>Zhipeng Yao</b></a><br>
-				CST@SYUCT (Fall 2024 - )
+				CST@SYUCT<br>
+				Fall 2024 - Present
 			</p>
 		</td>
 	</tr>
 </table>
 
----
 
 ## **Previous Students**
 
@@ -142,7 +146,8 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
 				<a href="/"><b>Dayanand Meghwar</b></a><br>
-				CSE@UofL, (Fall 2024)<br>
+				CSE@UofL<br>
+				Fall 2024 - Present<br>
 				Now Software Engineer at Humana
 			</p>
 		</td>
@@ -160,7 +165,8 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 			<p style="text-indent: 0em">
 				<a href=""><b>Ashley Yang</b></a><br>
 				Arizona State University<br>
-				Summer 2025, NSF REU student
+				Summer 2025<br>
+				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
 			</p>
 		</td>
 	</tr>
@@ -170,7 +176,10 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Jason Farnsworth</b></a>, Randolph College, Summer 2025, NSF REU student
+				<a href=""><b>Jason Farnsworth</b></a><br>
+				Randolph College<br>
+				Summer 2025<br>
+				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
 			</p>
 		</td>
 	</tr>
@@ -180,7 +189,10 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Tyler Sexton</b></a>, CSE@UofL, Summer 2025, UofL SROP student
+				<a href=""><b>Tyler Sexton</b></a><br>
+				CSE@UofL<br>
+				Summer 2025<br>
+				<a href="https://student.louisville.edu/engaged-learning/undergraduate-research/summer-research-opportunity-program-srop">UofL SROP</a> student
 			</p>
 		</td>
 	</tr>
@@ -190,7 +202,10 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Aiden Bosela</b></a>, Morehead State University, Summer 2024, NSF REU student
+				<a href=""><b>Aiden Bosela</b></a><br>
+				Morehead State University<br>
+				Summer 2024<br>
+				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
 			</p>
 		</td>
 	</tr>
