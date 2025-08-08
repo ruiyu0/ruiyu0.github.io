@@ -13,9 +13,9 @@ I am a Tenure-Track Assistant Professor in the <a href="https://engineering.loui
 
 I lead the **Intelligent Vision and Interaction Lab**. My research vision is to create intelligent systems that can perceive the dynamic, 3D world and interact with it in a human-centric, trustworthy, and beneficial manner. To achieve this, my lab's research is driven by three interconnected thrusts:
 
-* **3D Vision and Scene Intelligence:** We develop the foundational algorithms that allow machines to perceive, model, and synthesize the 3D world from visual data. Our research tackles core challenges in scene reconstruction, object recognition, and view synthesis to build intelligent systems that can understand and interact with their physical environment. This work lays the groundwork for the next generation of robotics and augmented reality.
-* **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel *assistive technologies* for people with disabilities to developing fundamentally *fair* and *privacy-preserving* machine learning models for society.
-* **AI in Medicine and Healthcare:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
+* **Visual Representation and Synthesis:** We build computational models that learn rich representations of the visual world. Our lab develops novel methods for machines to perceive their environment and **synthesize** new visual content, from reconstructing scenes to generating novel imagery. By creating powerful and flexible visual representations, we are laying the essential groundwork for more capable robotics and interactive AI.
+* **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel **assistive technologies** for people with disabilities to developing fundamentally **fair** and **privacy-preserving** machine learning models for society.
+* **AI in Medicine and Healthcare:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of **medical imaging** and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
 
 
 <!-- ## To Prospective Students
@@ -61,7 +61,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 
 ## 📚 Selected Recent Publications <span style="font-weight: normal;">[<a href="/publications/">Full List</a>]</span>
 
-### 🤖 3D Vision and Scene Intelligence
+### 🤖 Visual Representation and Synthesis
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
