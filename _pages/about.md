@@ -15,7 +15,7 @@ I lead the **Intelligent Vision and Interaction Lab**. My research vision is to 
 
 * **3D Vision and Scene Intelligence:** We develop the foundational algorithms that allow machines to perceive, model, and synthesize the 3D world from visual data. Our research tackles core challenges in scene reconstruction, object recognition, and view synthesis to build intelligent systems that can understand and interact with their physical environment. This work lays the groundwork for the next generation of robotics and augmented reality.
 * **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel *assistive technologies* for people with disabilities to developing fundamentally *fair* and *privacy-preserving* machine learning models for society.
-* **AI for Medical and Clinical Insights:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
+* **AI in Medicine and Healthcare:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
 
 
 <!-- ## To Prospective Students
@@ -209,7 +209,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 		</tr>
 </table>
 
-### 🩺 AI for Medical and Clinical Insights
+### 🩺 AI in Medicine and Healthcare
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
