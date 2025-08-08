@@ -35,7 +35,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 
 ## 📰 Recent News
 
-<div style="max-height: 200px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
+<div style="max-height: 300px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
   <li style="margin-bottom: 0.4em;"><strong>07/2025:</strong> Honored with the <em>Best Student Paper</em> Award at <b>ECML-PKDD 2025</b> 🏆</li>
@@ -49,7 +49,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
     <a href="https://github.com/ant-research/PlanarSplatting" target="_blank"><i>PlanarSplatting</i></a> See you in Nashville!
   </li>
   <li style="margin-bottom: 0.4em;"><strong>01/2025:</strong> Paper on interactions of visually impaired users with LMMs accepted to <b>CHI 2025</b></li>
-  <li style="margin-bottom: 0.4em;"><strong>11/2024:</strong> Awarded NSF Campus Cyberinfrastructure (CC*) grant as co-PI. Grateful for the support!</li>
+  <li style="margin-bottom: 0.4em;"><strong>11/2024:</strong> Awarded <b>NSF Campus Cyberinfrastructure (CC*)</b> grant as co-PI. Grateful for the support!</li>
   <li style="margin-bottom: 0.4em;"><strong>05/2024:</strong> Three papers accepted to <b>MICCAI 2024</b></li>
   <li style="margin-bottom: 0.4em;"><strong>01/2024:</strong> Paper on privacy-preserving remote assistance accepted to <b>CHI 2024</b></li>
   <li><strong>01/2024:</strong> One paper accepted to <b>ICRA 2024</b></li>
