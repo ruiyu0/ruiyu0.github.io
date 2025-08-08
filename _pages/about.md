@@ -9,7 +9,9 @@ header:
   image: "../images/UofL_background.jpg"
 ---
 
-Welcome! I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering</a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, and my Bachelor's and Master's degrees from Tsinghua University.
+## About me
+
+I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering</a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, and my Bachelor's and Master's degrees from Tsinghua University.
 
 My research lies at the intersection of **computer vision**, **machine learning**, and **human-computer interaction**. I lead the **Intelligent Vision and Interaction Lab**, where we aim to build intelligent systems that can perceive, understand, and interact with the world to empower people and enhance human capabilities.
 
