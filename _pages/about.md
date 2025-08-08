@@ -8,13 +8,25 @@ redirect_from:
 header:
   image: "../images/UofL_background.jpg"
 ---
-Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
 
-My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
+Welcome! I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering</a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, and my Bachelor's and Master's degrees from Tsinghua University.
 
-## To Prospective Students
+My research lies at the intersection of **computer vision**, **machine learning**, and **human-computer interaction**. I lead the **Intelligent Vision and Interaction Lab**, where we aim to build intelligent systems that can perceive, understand, and interact with the world to empower people and enhance human capabilities.
 
-I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me.
+My primary research interests include:
+
+* **Foundational 3D Vision and Generative Models:** Developing novel algorithms to capture, reconstruct, and generate the 3D world for applications in robotics and augmented reality.
+* **Human-Centered AI for Accessibility:** Co-designing and building AI-powered systems, such as remote sighted assistance and navigation aids, to enhance the lives of people with disabilities.
+* **Robust and Trustworthy AI for High-Stakes Domains:** Creating reliable and fair machine learning models for critical applications like medical image analysis.
+
+
+<!-- Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
+
+My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges. -->
+
+<!-- ## To Prospective Students
+
+I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me. -->
 
 <!-- ## PhD student positions available
 
