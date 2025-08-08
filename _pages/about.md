@@ -13,9 +13,9 @@ I am a Tenure-Track Assistant Professor in the <a href="https://engineering.loui
 
 I lead the **Intelligent Vision and Interaction Lab**. My research vision is to create intelligent systems that can perceive the dynamic, 3D world and interact with it in a human-centric, trustworthy, and beneficial manner. To achieve this, my lab's research is driven by three interconnected thrusts:
 
-* **Machine Perception and 3D Generation:** We build foundational models that enable machines to see, understand, and generate the physical world. Our work focuses on reconstructing complex 3D scenes from limited inputs and creating generative algorithms for immersive content, paving the way for the next generation of robotics and augmented reality. 🤖
-* **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel assistive technologies for people with disabilities to developing fundamentally fair and privacy-preserving machine learning models for society. 🤝
-* **AI for Medical and Clinical Insights:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 🩺
+* **Machine Perception and 3D Generation:** We build foundational models that enable machines to see, understand, and generate the physical world. Our work focuses on reconstructing complex 3D scenes from limited inputs and creating generative algorithms for immersive content, paving the way for the next generation of robotics and augmented reality. 
+* **Human-Centered and Trustworthy AI:** We design and evaluate intelligent systems that augment human capabilities and foster equitable human-AI collaboration. This research spans from creating novel assistive technologies for people with disabilities to developing fundamentally fair and privacy-preserving machine learning models for society. 
+* **AI for Medical and Clinical Insights:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of medical imaging and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
 
 
 <!-- ## To Prospective Students
@@ -31,7 +31,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## Selected Recent Publications <span style="font-weight: normal;">[<a href="/publications/">Full List</a>]</span>
 
-### Machine Perception and 3D Generation
+### 🤖 Machine Perception and 3D Generation
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -126,7 +126,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 		</tr>
 </table>
 
-### Human-Centered and Trustworthy AI
+### 🤝 Human-Centered and Trustworthy AI
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -209,7 +209,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 		</tr>
 </table>
 
-## AI for Medical and Clinical Insights
+### 🩺 AI for Medical and Clinical Insights
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
