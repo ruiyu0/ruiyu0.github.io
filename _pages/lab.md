@@ -147,7 +147,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 			<p style="text-indent: 0em">
 				<a href="/"><b>Dayanand Meghwar</b></a><br>
 				CSE@UofL<br>
-				Fall 2024 - Present<br>
+				Fall 2024 - Spring 2025<br>
 				Now Software Engineer at Humana
 			</p>
 		</td>
