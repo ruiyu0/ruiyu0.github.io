@@ -113,7 +113,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  </p>
 			</td>
 		</tr>
-		<tr style="border: 1px solid transparent">
+<!-- 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
@@ -123,7 +123,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 				[<a href="https://arxiv.org/pdf/2108.08259.pdf">paper</a>][<a href="https://github.com/rui-yu-public/Retracking-by-Prediction">code</a>]
 			  </p>
 		  	</td>
-		</tr>
+		</tr> -->
 </table>
 
 ### 🤝 Human-Centered and Trustworthy AI
