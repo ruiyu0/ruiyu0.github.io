@@ -1,0 +1,9 @@
+/* Make content area wider */
+.page__content {
+  max-width: 1200px; /* wider than default ~800px */
+}
+
+/* Also widen single-column layouts */
+.layout--single .page__inner-wrap {
+  max-width: 1200px;
+}
