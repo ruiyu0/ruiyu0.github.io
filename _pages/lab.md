@@ -33,7 +33,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Zitong Zhang's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Zitong Zhang's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -57,7 +57,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Durude Mahee's headshot">
+			<img src="../images/placeholder_w.jpeg" width="150" alt="Durude Mahee's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -74,7 +74,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Suranjan Gautam's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Suranjan Gautam's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -86,7 +86,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Antarip Saha's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Antarip Saha's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -103,7 +103,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="John Kellogg's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="John Kellogg's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -121,7 +121,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Zhipeng Yao's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Zhipeng Yao's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -141,7 +141,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Dayanand Meghwar's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Dayanand Meghwar's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -185,7 +185,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Tyler Sexton's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Tyler Sexton's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
@@ -198,7 +198,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/lab_logo.png" width="150" alt="Aiden Bosela's headshot">
+			<img src="../images/placeholder_m.jpeg" width="150" alt="Aiden Bosela's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">

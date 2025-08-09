@@ -1,5 +1,5 @@
 ---
-permalink: /member/
+permalink: /members/
 title: "InVision Lab"
 author_profile: false
 header:
