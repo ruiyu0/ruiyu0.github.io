@@ -64,7 +64,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
   <div class="member-card">
     <img src="../images/placeholder_w.jpeg" alt="Durude Mahee's headshot">
     <p>
-      <a href="/"><b>Durude Mahee</b></a>
+      <a href="/"><b>Durude Mahee</b></a><br>
       ECE@UofL<br>
       Co-advised by Dr. Hongxiang Li<br>
       Fall 2024 - Present
