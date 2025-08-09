@@ -49,7 +49,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="www.linkedin.com/in/fan-zhu"><b>Fan Zhu</b></a><br>
+				<a href="https://www.linkedin.com/in/fan-zhu"><b>Fan Zhu</b></a><br>
 				CSE@UofL<br>
 				Fall 2024 - Present
 			</p>
@@ -61,7 +61,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>Durude Mahee</b></a><br>
+				<a href=""><b>Durude Mahee</b></a><br>
 				ECE@UofL (co-advised by Dr. Hongxiang Li)<br>
 				Fall 2024 - Present
 			</p>
@@ -90,7 +90,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>Antarip Saha</b></a><br>
+				<a href=""><b>Antarip Saha</b></a><br>
 				CSE@UofL<br>
 				Fall 2024 - Present
 			</p>
@@ -107,7 +107,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>John Kellogg</b></a><br>
+				<a href=""><b>John Kellogg</b></a><br>
 				CSE@UofL<br>
 				Summer 2025 - Present<br>
 				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
@@ -125,7 +125,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>Zhipeng Yao</b></a><br>
+				<a href=""><b>Zhipeng Yao</b></a><br>
 				CST@SYUCT<br>
 				Fall 2024 - Present
 			</p>
@@ -145,7 +145,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href="/"><b>Dayanand Meghwar</b></a><br>
+				<a href=""><b>Dayanand Meghwar</b></a><br>
 				CSE@UofL<br>
 				Fall 2024 - Spring 2025<br>
 				Now Software Engineer at Humana
