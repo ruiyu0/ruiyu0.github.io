@@ -18,8 +18,8 @@ header:
   text-align: center;
 }
 .member-card img {
-  width: 150px;
-  height: auto;
+  width: auto;
+  height: 160px;
   border-radius: 4px;
 }
 </style>
@@ -46,7 +46,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 ### **PhD Students**
 <div class="member-grid">
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Zitong Zhang's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Zitong Zhang's headshot">
     <p>
       <a href="https://zhangzitong1312.github.io/Homepage/"><b>Zitong Zhang</b></a><br>
       CSE@UofL<br>
@@ -62,7 +62,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
     </p>
   </div>
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Durude Mahee's headshot">
+    <img src="../images/placeholder_w.jpeg" alt="Durude Mahee's headshot">
     <p>
       <a href="/"><b>Durude Mahee</b></a><br>
       ECE@UofL (co-advised by Dr. Hongxiang Li)<br>
@@ -74,7 +74,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 ### **Master's Students**
 <div class="member-grid">
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Suranjan Gautam's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Suranjan Gautam's headshot">
     <p>
       <a href="https://suranjan.com.np/"><b>Suranjan Gautam</b></a><br>
       CSE@UofL<br>
@@ -82,7 +82,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
     </p>
   </div>
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Antarip Saha's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Antarip Saha's headshot">
     <p>
       <a href="/"><b>Antarip Saha</b></a><br>
       CSE@UofL<br>
@@ -94,7 +94,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 ### **Undergraduate Students**
 <div class="member-grid">
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="John Kellogg's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="John Kellogg's headshot">
     <p>
       <a href="/"><b>John Kellogg</b></a><br>
       CSE@UofL<br>
@@ -107,7 +107,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 ### **Interns**
 <div class="member-grid">
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Zhipeng Yao's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Zhipeng Yao's headshot">
     <p>
       <a href="/"><b>Zhipeng Yao</b></a><br>
       CST@SYUCT<br>
@@ -123,7 +123,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 ### **Master's Students**
 <div class="member-grid">
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Dayanand Meghwar's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Dayanand Meghwar's headshot">
     <p>
       <a href="/"><b>Dayanand Meghwar</b></a><br>
       CSE@UofL<br>
@@ -154,7 +154,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
     </p>
   </div>
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Tyler Sexton's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Tyler Sexton's headshot">
     <p>
       <a href=""><b>Tyler Sexton</b></a><br>
       CSE@UofL<br>
@@ -163,7 +163,7 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
     </p>
   </div>
   <div class="member-card">
-    <img src="../images/lab_logo.png" alt="Aiden Bosela's headshot">
+    <img src="../images/placeholder_m.jpeg" alt="Aiden Bosela's headshot">
     <p>
       <a href=""><b>Aiden Bosela</b></a><br>
       Morehead State University<br>
