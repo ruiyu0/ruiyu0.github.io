@@ -9,9 +9,10 @@ header:
 <style>
 .member-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, max-content));
   gap: 1.5rem;
   margin-top: 1rem;
+  justify-content: start; /* left-align incomplete rows */
 }
 .member-card {
   text-align: center;
