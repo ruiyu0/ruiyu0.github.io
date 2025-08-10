@@ -185,11 +185,11 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/placeholder_m.jpeg" width="150" alt="Tyler Sexton's headshot">
+			<img src="../images/TylerS.jpg" width="150" alt="Tyler Sexton's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Tyler Sexton</b></a><br>
+				<a href="www.linkedin.com/in/tyler-m-sexton"><b>Tyler Sexton</b></a><br>
 				CSE@UofL<br>
 				Summer 2025<br>
 				<a href="https://student.louisville.edu/engaged-learning/undergraduate-research/summer-research-opportunity-program-srop">UofL SROP</a> student
