@@ -86,11 +86,11 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/placeholder_m.jpeg" width="150" alt="Antarip Saha's headshot">
+			<img src="../images/Antarip.jpg" width="150" alt="Antarip Saha's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>Antarip Saha</b></a><br>
+				<a href="https://www.linkedin.com/in/antarip-saha/"><b>Antarip Saha</b></a><br>
 				CSE@UofL<br>
 				Fall 2024 - Present
 			</p>
