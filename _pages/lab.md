@@ -103,11 +103,11 @@ The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/placeholder_m.jpeg" width="150" alt="John Kellogg's headshot">
+			<img src="../images/JohnK.jpeg" width="150" alt="John Kellogg's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em">
-				<a href=""><b>John Kellogg</b></a><br>
+				<a href="https://www.linkedin.com/in/john-kellogg-10405b285/"><b>John Kellogg</b></a><br>
 				CSE@UofL<br>
 				Summer 2025 - Present<br>
 				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
