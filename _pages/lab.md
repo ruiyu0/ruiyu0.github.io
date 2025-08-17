@@ -14,12 +14,8 @@ header:
       <img src="../images/lab_logo.png" width="120" alt="InVision Lab Logo">
     </td>
     <td style="border: 1px solid transparent">
-      <p style="text-indent: 0em">
-        The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. 
-        Our research vision is to advance artificial intelligence to better understand our world and 
-        augment human capabilities. To achieve this, our work bridges foundational research in visual 
-        representation and synthesis with human-centered applications, focusing on creating trustworthy 
-        AI for society and pioneering new tools for medicine and healthcare.
+      <p style="text-indent: 0em; font-size: 1.1em; line-height: 1.5em; margin: 0;">
+        The Intelligent Vision and Interaction (InVision) Lab is led by Dr. Rui Yu. Our research vision is to advance artificial intelligence to better understand our world and augment human capabilities. To achieve this, our work bridges foundational research in visual representation and synthesis with human-centered applications, focusing on creating trustworthy AI for society and pioneering new tools for medicine and healthcare.
       </p>
     </td>
   </tr>
