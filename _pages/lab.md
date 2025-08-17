@@ -10,8 +10,8 @@ header:
 
 <table style="border: 1px solid transparent">
   <tr style="border: 1px solid transparent">
-    <td style="border: 1px solid transparent" width="150" align="left">
-      <img src="../images/lab_logo.png" width="150" alt="InVision Lab Logo">
+    <td style="border: 1px solid transparent" width="180" align="left">
+      <img src="../images/lab_logo.png" width="180" alt="InVision Lab Logo">
     </td>
     <td style="border: 1px solid transparent">
       <p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em; margin: 0;">
