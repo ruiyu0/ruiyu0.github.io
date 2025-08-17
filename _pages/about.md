@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: "../images/UofL_background.jpg"
+  image: "../images/UofL_banner.png"
 ---
 
 I am a Tenure-Track Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">CSE department at University of Louisville (UofL)</a>, and am also affiliated with the <a href="https://engineering.louisville.edu/research/centersinstitutes/larri/">Louisville Automation & Robotics Research Institute (LARRI)</a>. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, and my Bachelor's and Master's degrees from Tsinghua University. During my PhD, I also worked as a research intern at Snap Research, Kitware, and Toyota Research Institute.
