@@ -129,7 +129,7 @@ header:
 	</tr>
 </table>
 
-### **Interns**
+<!-- ### **Interns**
 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
@@ -144,7 +144,7 @@ header:
 			</p>
 		</td>
 	</tr>
-</table>
+</table> -->
 
 
 ## **Previous Students**
