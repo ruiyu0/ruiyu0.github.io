@@ -211,11 +211,11 @@ header:
 	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
-			<img src="../images/placeholder_m.jpeg" width="150" alt="Aiden Bosela's headshot">
+			<img src="../images/AidenB.jpg" width="150" alt="Aiden Bosela's headshot">
 		</td>
 		<td style="border: 1px solid transparent">
 			<p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em">
-				<a href=""><b>Aiden Bosela</b></a><br>
+				<a href="https://www.linkedin.com/in/aiden-bosela/"><b>Aiden Bosela</b></a><br>
 				Morehead State University<br>
 				Summer 2024<br>
 				<a href="https://engineering.louisville.edu/academics/departments/computer/reu-site-summer-research-program-computer/">NSF REU</a> student
