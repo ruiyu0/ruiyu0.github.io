@@ -15,7 +15,7 @@ author_profile: true
 				<a href="https://arxiv.org/abs/2507.21371"> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>]
+				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>][<a href="https://github.com/zhangzitong1312/top2pano">code</a>]
 			  </p>
 			</td>
 		</tr>
@@ -105,7 +105,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf"> <b>Graph Fairness via Authentic Counterfactuals: Tackling Structural and Causal Challenges</b> </a> <br>
 				Zichong Wang, Zhipeng Yin, Fang Liu, Zhen Liu, Christine Lisetti, <b>Rui Yu</b>, Shaowei Wang, Jun Li, Sukumar Ganapati, Shuigeng Zhou, Wenbin Zhang<br>
-				ACM SIGKDD Explorations, 2025.<br>
+				<b>ACM SIGKDD Explorations</b>, 2025.<br>
 				[<a href="https://www.kdd.org/exploration_files/p89-Graph-fairness-Counterfactual.pdf">paper</a>]
 			  </p>
 			</td>
@@ -189,7 +189,7 @@ author_profile: true
 			  <p style="text-indent: 0em">
 				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human-AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
 				<b>Rui Yu*</b>, Sooyeon Lee*, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
-				Future Internet, 2024. (Extended version of IUI'22)<br>
+				<b>Future Internet</b>, 2024. (Extended version of IUI'22)<br>
 				[<a href="https://www.mdpi.com/1999-5903/16/7/254">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>

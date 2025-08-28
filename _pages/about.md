@@ -71,7 +71,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 				<a href="https://arxiv.org/abs/2507.21371"> <b>Top2Pano: Learning to Generate Indoor Panoramas from Top-Down View</b> </a> <br>
 				Zitong Zhang, Suranjan Gautam, <b>Rui Yu</b> <br>
 				IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2025.<br>
-				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>]
+				[<a href="https://arxiv.org/pdf/2507.21371">paper</a>][<a href="https://top2pano.github.io/">project</a>][<a href="https://github.com/zhangzitong1312/top2pano">code</a>]
 			  </p>
 			</td>
 		</tr>
