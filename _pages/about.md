@@ -178,7 +178,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 				Zichong Wang, Zhipeng Yin, Liping Yang, Jun Zhuang, <b>Rui Yu</b>, Qingzhao Kong, Wenbin Zhang <br>
 				European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<b>ECML-PKDD</b>), 2025.  <br>
 				<span style="color: #e67e22; font-weight: 500;">🏆 Best Student Paper Award</span> <br>
-				[paper to appear]
+				[<a href="https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_475.pdf">paper</a>]
 			  </p>
 		  	</td>
 		</tr>
