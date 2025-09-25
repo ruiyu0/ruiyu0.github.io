@@ -247,10 +247,10 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Nora.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href=""> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
+				<a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_45"> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
 				Zhikai Wei, Chao Wu, Hanyu Du, <b>Rui Yu</b>, Bo Du, Yongchao Xu <br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2025.<br>
-				[paper to appear]
+				[<a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_45">paper</a>][<a href="https://github.com/wkklavis/Nora/">code</a>]
 			  </p>
 		  	</td>
 		</tr>
