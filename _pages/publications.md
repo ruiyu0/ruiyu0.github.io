@@ -168,7 +168,6 @@ author_profile: true
 				<a href="https://arxiv.org/abs/2403.11689"> <b>MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation</b> </a> <br>
 				Haoyu Zhao, Wenhui Dong, <b>Rui Yu</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
-				<span style="color: #e67e22;">💎 Editor's Choice Article</span> <br>
 				[<a href="https://arxiv.org/pdf/2403.11689">paper</a>]
 			  </p>
 		  	</td>
@@ -191,6 +190,7 @@ author_profile: true
 				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human-AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
 				<b>Rui Yu*</b>, Sooyeon Lee*, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
 				<b>Future Internet</b>, 2024. (Extended version of IUI'22)<br>
+				<span style="color: #008b8b;">💎 Editor's Choice Article</span> <br>
 				[<a href="https://www.mdpi.com/1999-5903/16/7/254">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
