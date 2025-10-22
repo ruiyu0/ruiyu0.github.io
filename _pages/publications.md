@@ -190,7 +190,7 @@ author_profile: true
 				<a href="https://www.mdpi.com/1999-5903/16/7/254"> <b>Human-AI Collaboration for Remote Sighted Assistance: Perspectives from the LLM Era</b> </a> <br>
 				<b>Rui Yu*</b>, Sooyeon Lee*, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
 				<b>Future Internet</b>, 2024. (Extended version of IUI'22)<br>
-				<span style="color: #4B0082;">💎 Editor's Choice Article</span> <br>
+				<span style="color: #e67e22;">💎 Editor's Choice Article</span> <br>
 				[<a href="https://www.mdpi.com/1999-5903/16/7/254">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
