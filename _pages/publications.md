@@ -72,7 +72,7 @@ author_profile: true
 				<a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_45"> <b>Noise-Robust Tuning of SAM for Domain Generalized Ultrasound Image Segmentation</b> </a> <br>
 				Zhikai Wei, Chao Wu, Hanyu Du, <b>Rui Yu</b>, Bo Du, Yongchao Xu <br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2025.<br>
-				[<a href="https://link.springer.com/chapter/10.1007/978-3-032-04971-1_45">paper</a>][<a href="https://github.com/wkklavis/Nora/">code</a>]
+				[<a href="https://papers.miccai.org/miccai-2025/paper/1075_paper.pdf">paper</a>][<a href="https://github.com/wkklavis/Nora/">code</a>]
 			  </p>
 		  	</td>
 		</tr>
