@@ -168,6 +168,7 @@ author_profile: true
 				<a href="https://arxiv.org/abs/2403.11689"> <b>MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation</b> </a> <br>
 				Haoyu Zhao, Wenhui Dong, <b>Rui Yu</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				<span style="color: #e67e22;">💎 Editor's Choice Article</span> <br>
 				[<a href="https://arxiv.org/pdf/2403.11689">paper</a>]
 			  </p>
 		  	</td>
