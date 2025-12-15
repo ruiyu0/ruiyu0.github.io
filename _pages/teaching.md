@@ -9,4 +9,5 @@ author_profile: true
 
 * CSE 419. Introduction to Algorithms
 * CSE 619. Design and Analysis of Computer Algorithms
+* CSE 627. Digital Image Processing
 
