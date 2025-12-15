@@ -38,7 +38,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 <div style="max-height: 300px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
-  <li style="margin-bottom: 0.4em;"><strong>12/2025:</strong> Awarded <b>Jon Rieger Seed Grant</b> as sole PI. Grateful to the UofL Office of Research and Innovation for the support!</li>
+  <li style="margin-bottom: 0.4em;"><strong>12/2025:</strong> Awarded <b>Jon Rieger Seed Grant</b> as sole PI</li>
   <li style="margin-bottom: 0.4em;"><strong>10/2025:</strong> Recognized as a <b>Top Reviewer</b> for <b>NeurIPS 2025</b></li>
   <li style="margin-bottom: 0.4em;"><strong>09/2025:</strong> Awarded 2025 <b>NVIDIA Academic Grant</b> as sole PI. Grateful to NVIDIA for the support!</li>
   <li style="margin-bottom: 0.4em;"><strong>07/2025:</strong> Honored with the <b><a href="https://ecmlpkdd.org/2025/awards/" target="_blank">Best Student Paper Award</a></b> at <b>ECML-PKDD 2025</b> 🏆</li>
