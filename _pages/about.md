@@ -38,6 +38,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 <div style="max-height: 300px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
+	<li style="margin-bottom: 0.4em;"><strong>01/2026:</strong> Paper on responsible AI for children accepted to <b>CHI 2026</b></li>
   <li style="margin-bottom: 0.4em;"><strong>12/2025:</strong> Awarded <b>Jon Rieger Seed Grant</b> as sole PI</li>
   <li style="margin-bottom: 0.4em;"><strong>10/2025:</strong> Recognized as a <b>Top Reviewer</b> for <b>NeurIPS 2025</b></li>
   <li style="margin-bottom: 0.4em;"><strong>09/2025:</strong> Awarded 2025 <b>NVIDIA Academic Grant</b> as sole PI. Grateful to NVIDIA for the support!</li>
