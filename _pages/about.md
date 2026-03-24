@@ -29,15 +29,16 @@ I am seeking motivated students interested in computer vision and/or human-compu
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester) -->
 
-## 📣 Call for Papers
+<!-- ## 📣 Call for Papers
 
-I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903). Submission Deadline: February 28, 2026
+I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903). Submission Deadline: February 28, 2026 -->
 
 ## 📰 Recent News
 
 <div style="max-height: 300px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
+  <li style="margin-bottom: 0.4em;"><strong>02/2026:</strong> One paper accepted to <b>CVPR 2026</b>: <a href="https://github.com/LilYau350/SGDF-Optimizer" target="_blank"><i>SGDF-Optimizer</i></a></li>
 	<li style="margin-bottom: 0.4em;"><strong>01/2026:</strong> Paper on responsible AI for children accepted to <b>CHI 2026</b></li>
   <li style="margin-bottom: 0.4em;"><strong>12/2025:</strong> Awarded <b>Jon Rieger Seed Grant</b> as sole PI</li>
   <li style="margin-bottom: 0.4em;"><strong>10/2025:</strong> Recognized as a <b>Top Reviewer</b> for <b>NeurIPS 2025</b></li>
@@ -68,6 +69,17 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 ### 🤖 Visual Representation and Synthesis
 
 <table style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/SGDF.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2603.06120"> <b>Dynamic Momentum Recalibration in Online Gradient Learning</b> </a> <br>
+				Zhipeng Yao, <b>Rui Yu†</b>, Guisong Chang, Ying Li, Yu Zhang, Dazhou Li†<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026.<br>
+				[<a href="https://arxiv.org/pdf/2603.06120">paper</a>][<a href="https://github.com/LilYau350/SGDF-Optimizer">code</a>] (<i><b>†equal advising</b></i>)
+			  </p>
+			</td>
+		</tr>
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/Top2Pano.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
@@ -163,6 +175,17 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 ### 🤝 Human-Centered and Trustworthy AI
 
 <table style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi26.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
+				Jingyi Xie*, Chuhao Wu*, Ge Wang, <b>Rui Yu</b>, He Zhang, Ronald Metoyer, Si Chen<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2026.<br>
+				[<a href="">paper</a>] (<i>*equal contribution</i>)
+			  </p>
+		  	</td>
+		</tr>
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi25.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">

@@ -5,6 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+
+<table style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/SGDF.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/abs/2603.06120"> <b>Dynamic Momentum Recalibration in Online Gradient Learning</b> </a> <br>
+				Zhipeng Yao, <b>Rui Yu†</b>, Guisong Chang, Ying Li, Yu Zhang, Dazhou Li†<br>
+				IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026.<br>
+				[<a href="https://arxiv.org/pdf/2603.06120">paper</a>][<a href="https://github.com/LilYau350/SGDF-Optimizer">code</a>] (<i><b>†equal advising</b></i>)
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi26.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href=""> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
+				Jingyi Xie*, Chuhao Wu*, Ge Wang, <b>Rui Yu</b>, He Zhang, Ronald Metoyer, Si Chen<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2026.<br>
+				[<a href="">paper</a>] (<i>*equal contribution</i>)
+			  </p>
+		  	</td>
+		</tr>
+</table>
+
+---
+
 ## 2025
 
 <table style="border: 1px solid transparent">
