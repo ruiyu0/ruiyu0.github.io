@@ -23,10 +23,10 @@ author_profile: true
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi26.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href=""> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
+				<a href="https://dl.acm.org/doi/full/10.1145/3772318.3790479"> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
 				Jingyi Xie*, Chuhao Wu*, Ge Wang, <b>Rui Yu</b>, He Zhang, Ronald Metoyer, Si Chen<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2026.<br>
-				[<a href="">paper</a>] (<i>*equal contribution</i>)
+				[<a href="https://dl.acm.org/doi/pdf/10.1145/3772318.3790479">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
 		</tr>
@@ -228,7 +228,7 @@ author_profile: true
 
 ---
 
-## Pre-Faculty (2017-2023)
+## 2017-2023
 
 <table style="border: 1px solid transparent">
         <tr style="border: 1px solid transparent">

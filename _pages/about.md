@@ -29,9 +29,9 @@ I am seeking motivated students interested in computer vision and/or human-compu
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester) -->
 
-<!-- ## 📣 Call for Papers
+## 📣 Call for Papers
 
-I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/9K76RSFNBR" target="_blank"><strong>"Human-Centered Artificial Intelligence"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903). Submission Deadline: February 28, 2026 -->
+I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/3SD1W3G9EB" target="_blank"><strong>"Human-Centered Artificial Intelligence (2nd Edition)"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903). Submission Deadline: February 28, 2027
 
 ## 📰 Recent News
 
@@ -179,10 +179,10 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi26.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href=""> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
+				<a href="https://dl.acm.org/doi/full/10.1145/3772318.3790479"> <b>Understanding Parents’ Perspectives on Responsible AI for Children’s Self-Directed Learning</b> </a> <br>
 				Jingyi Xie*, Chuhao Wu*, Ge Wang, <b>Rui Yu</b>, He Zhang, Ronald Metoyer, Si Chen<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2026.<br>
-				[<a href="">paper</a>] (<i>*equal contribution</i>)
+				[<a href="https://dl.acm.org/doi/pdf/10.1145/3772318.3790479">paper</a>] (<i>*equal contribution</i>)
 			  </p>
 		  	</td>
 		</tr>
