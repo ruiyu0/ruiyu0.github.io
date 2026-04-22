@@ -31,7 +31,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## 📣 Call for Papers
 
-I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/3SD1W3G9EB" target="_blank"><strong>"Human-Centered Artificial Intelligence (2nd Edition)"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903).  
+I am serving as a guest editor for the special issue <a href="https://www.mdpi.com/journal/futureinternet/special_issues/3SD1W3G9EB" target="_blank"><strong>"Human-Centered Artificial Intelligence (2nd Edition)"</strong></a> in the journal <em>Future Internet</em> (ISSN 1999-5903).<br>
 Submission Deadline: February 28, 2027
 
 ## 📰 Recent News
