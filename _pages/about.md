@@ -35,11 +35,11 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 
 ## 📰 Recent News
 
-<div style="max-height: 300px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
+<div style="max-height: 400px; overflow-y: auto; padding: 1em; font-size: 0.9em; border: 1px solid #ccc; border-radius: 8px;">
 
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
   <li style="margin-bottom: 0.4em;"><strong>10/2026:</strong> One paper accepted to <b>WACV 2027</b></li>
-	<li style="margin-bottom: 0.4em;"><strong>07/2026:</strong> Awarded <b>NSF CISE Future CoRe: Robust Intelligence (RI)</b> grant as Lead PI. Grateful to NSF for the support!</li>
+	<li style="margin-bottom: 0.4em;"><strong>07/2026:</strong> Awarded <b>NSF CISE Future CoRe: Robust Intelligence (RI)</b> grant as PI. Grateful to NSF for the support!</li>
 	<li style="margin-bottom: 0.4em;"><strong>06/2026:</strong> Invited to serve as Area Chair for <b>WACV 2027</b></li>
   <li style="margin-bottom: 0.4em;"><strong>05/2026:</strong> Recognized as an <b>Outstanding Reviewer</b> for <b>CVPR 2026</b></li>
   <li style="margin-bottom: 0.4em;"><strong>02/2026:</strong> One paper accepted to <b>CVPR 2026</b>: <a href="https://arxiv.org/abs/2603.06120" target="_blank"><i>SGDF-Optimizer</i></a></li>
