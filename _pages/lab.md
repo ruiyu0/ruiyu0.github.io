@@ -68,7 +68,7 @@ header:
 			</p>
 		</td>
 	</tr>
-	<tr style="border: 1px solid transparent">
+<!-- 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
 			<img src="../images/placeholder_w.jpeg" width="150" alt="Durude Mahee's headshot">
 		</td>
@@ -79,10 +79,10 @@ header:
 				Fall 2024 - Present
 			</p>
 		</td>
-	</tr>
+	</tr> -->
 </table>
 
-### **Master's Students**
+<!-- ### **Master's Students**
 
 <table style="border: 1px solid transparent">
 	<tr style="border: 1px solid transparent">
@@ -93,7 +93,7 @@ header:
 			<p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em">
 				<a href="https://suranjan.com.np/"><b>Suranjan Gautam</b></a><br>
 				CSE@UofL<br>
-				Fall 2024 - Present
+				Fall 2024 - Spring 2026
 			</p>
 		</td>
 	</tr>
@@ -105,11 +105,11 @@ header:
 			<p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em">
 				<a href="https://www.linkedin.com/in/antarip-saha/"><b>Antarip Saha</b></a><br>
 				CSE@UofL<br>
-				Fall 2024 - Present
+				Fall 2024 - Summer 2026
 			</p>
 		</td>
 	</tr>
-</table>
+</table> -->
 
 ### **Undergraduate Students**
 
@@ -152,6 +152,30 @@ header:
 ### **Master's Students**
 
 <table style="border: 1px solid transparent">
+	<tr style="border: 1px solid transparent">
+		<td style="border: 1px solid transparent" width="150" align="left">
+			<img src="../images/Suranjan.jpg" width="150" alt="Suranjan Gautam's headshot">
+		</td>
+		<td style="border: 1px solid transparent">
+			<p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em">
+				<a href="https://suranjan.com.np/"><b>Suranjan Gautam</b></a><br>
+				CSE@UofL<br>
+				Fall 2024 - Spring 2026
+			</p>
+		</td>
+	</tr>
+	<tr style="border: 1px solid transparent">
+		<td style="border: 1px solid transparent" width="150" align="left">
+			<img src="../images/Antarip.jpg" width="150" alt="Antarip Saha's headshot">
+		</td>
+		<td style="border: 1px solid transparent">
+			<p style="text-indent: 0em; font-size: 1.25em; line-height: 1.5em">
+				<a href="https://www.linkedin.com/in/antarip-saha/"><b>Antarip Saha</b></a><br>
+				CSE@UofL<br>
+				Fall 2024 - Summer 2026
+			</p>
+		</td>
+	</tr>
 	<tr style="border: 1px solid transparent">
 		<td style="border: 1px solid transparent" width="150" align="left">
 			<img src="../images/Dayanand.jpg" width="150" alt="Dayanand Meghwar's headshot">
