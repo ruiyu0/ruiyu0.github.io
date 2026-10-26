@@ -40,7 +40,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
 <ul style="list-style-type: '📌 '; padding-left: 1.2em; margin-top: 0; margin-bottom: 0;">
   <li style="margin-bottom: 0.4em;"><strong>10/2026:</strong> One paper accepted to <b>WACV 2027</b></li>
 	<li style="margin-bottom: 0.4em;"><strong>07/2026:</strong> Awarded <b>NSF CISE Future CoRe: Robust Intelligence (RI)</b> grant as PI. Grateful to NSF for the support!</li>
-	<li style="margin-bottom: 0.4em;"><strong>06/2026:</strong> Invited to serve as Area Chair for <b>WACV 2027</b></li>
+	<!-- <li style="margin-bottom: 0.4em;"><strong>06/2026:</strong> Invited to serve as Area Chair for <b>WACV 2027</b></li> -->
   <li style="margin-bottom: 0.4em;"><strong>05/2026:</strong> Recognized as an <b>Outstanding Reviewer</b> for <b>CVPR 2026</b></li>
   <li style="margin-bottom: 0.4em;"><strong>02/2026:</strong> One paper accepted to <b>CVPR 2026</b>: <a href="https://arxiv.org/abs/2603.06120" target="_blank"><i>SGDF-Optimizer</i></a></li>
 	<li style="margin-bottom: 0.4em;"><strong>01/2026:</strong> Paper on responsible AI for children accepted to <b>CHI 2026</b></li>
@@ -49,7 +49,7 @@ I am serving as a guest editor for the special issue <a href="https://www.mdpi.c
   <li style="margin-bottom: 0.4em;"><strong>09/2025:</strong> Awarded 2025 <b>NVIDIA Academic Grant</b> as sole PI. Grateful to NVIDIA for the support!</li>
   <li style="margin-bottom: 0.4em;"><strong>07/2025:</strong> Honored with the <b><a href="https://ecmlpkdd.org/2025/awards/" target="_blank">Best Student Paper Award</a></b> at <b>ECML-PKDD 2025</b> 🏆</li>
   <li style="margin-bottom: 0.4em;"><strong>06/2025:</strong> Two papers accepted to <b>ICCV 2025</b>: <a href="https://top2pano.github.io/" target="_blank"><i>Top2Pano</i></a> and <a href="https://github.com/wangzhichuan123/DAC/" target="_blank"><i>DAC</i></a></li>
-  <li style="margin-bottom: 0.4em;"><strong>06/2025:</strong> Appointed Area Chair for <b>WACV 2026</b></li>
+  <!-- <li style="margin-bottom: 0.4em;"><strong>06/2025:</strong> Appointed Area Chair for <b>WACV 2026</b></li> -->
   <li style="margin-bottom: 0.4em;"><strong>05/2025:</strong> One paper accepted to <b>MICCAI 2025</b></li>
   <li style="margin-bottom: 0.4em;"><strong>05/2025:</strong> One paper accepted to <b>ECML-PKDD 2025</b></li>
   <li style="margin-bottom: 0.4em;"><strong>03/2025:</strong> Review paper on layout generation accepted to <b>Computational Visual Media</b> (CVMJ); to be presented at <b>CVM 2025</b></li>
