@@ -24,7 +24,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## 🔍 PhD student positions available
 
-<span style="color:#6B8EAD">I have fully-funded Ph.D. student positions starting from Fall 2027. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
+<span style="color:#E58C7C">I have fully-funded Ph.D. student positions starting from Fall 2027. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
 
 <!-- [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext) -->
 <!-- (Application deadline: May 1st 2027 for Fall semester) -->
