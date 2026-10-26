@@ -18,16 +18,16 @@ I lead the <a href="/lab/"><strong>Intelligent Vision and Interaction (InVision)
 * **AI in Medicine and Healthcare:** We develop robust and reliable AI to tackle high-stakes challenges in healthcare. Our goal is to enhance the quality of *medical imaging* and create specialized machine learning systems for tasks like segmentation and anomaly detection, providing powerful tools to support clinical decision-making. 
 
 
-<!-- ## To Prospective Students
+## To Prospective Students
 
-I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me. -->
+I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me.
 
-<!-- ## PhD student positions available
+## PhD student positions available
 
-<span style="color:red">I have fully-funded Ph.D. student positions starting from Fall 2024. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
+<span style="color:red">I have fully-funded Ph.D. student positions starting from Fall 2027. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
 
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
-(Application deadline: May 1st 2024 for Fall semester) -->
+<!-- (Application deadline: May 1st 2027 for Fall semester) -->
 
 ## 📣 Call for Papers
 
